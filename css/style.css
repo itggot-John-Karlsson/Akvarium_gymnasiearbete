@@ -16,7 +16,8 @@ h1:hover{
 }
 
 .fish-area{
-    background: blue;
+    box-shadow: 0px 0px 50px rgb(54, 54, 241);
+    background: rgb(54, 54, 241);
     margin-top: 75px;
     width: 100vw;
     height: 75vh;
