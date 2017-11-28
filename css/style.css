@@ -2,13 +2,22 @@ body{
     background: lightblue;
     margin: 0;
 }
+
 h1{
     font-family: sans-serif;
     color: black;
     font-weight: bold;
 }
+
 h1:hover{
     transition: 2s;
     background: black;
     color: white;
+}
+
+.fish-area{
+    background: blue;
+    margin-top: 75px;
+    width: 100vw;
+    height: 75vh;
 }
